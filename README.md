@@ -6,3 +6,4 @@ The trick is that once you know the best practices, you can make suggestions (mo
 
 The Game starts!
 
+Khm, khm.. Check out the **real task** [here](https://classroom.github.com/a/0eTeF6Ee)
